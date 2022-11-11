@@ -5,4 +5,4 @@ Contents:
 .. subprojecttoctree::
     foo
     bar
-    SubprojectTitle <subproject: lorem>
+    SubprojectTitle <subproject: subprojecttoctree-example-subproject>
